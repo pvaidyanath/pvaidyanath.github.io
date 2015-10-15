@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+	background-color: rgb(168,168,168);
+}
+
+h1 {
+
+	font-weight: 28px;
+	font-style: serif;
+	color: #8B0000;
+	text-decoration: none;
+	font-family: 'Volkhov', serif;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-weight: 26px
+	font-style: sans-serif;
+
+}
+
+h3 {
+	font-family: arial, sans-serif;
+	font-weight: 10px;
+	color: #000080;
+	font-style: italic;
+	text-transform: inherit;
+	font-size: 20px;
+
+}
+
+p1, p2 {
+	font-family: "Courier New", monospace;
+}
+
+a {
+	font-style: italic;
+	color: blue;
+	background-color: yellow;
+}
+
+.center {
+	text-align: center;
+}
+
+.leftalign {
+	text-align: left;
+}
